@@ -7,3 +7,5 @@ $result = $conn->query("SELECT * FROM students");
 if (!$result) {
     die("Database connection failed: " . $conn->error);
 }
+
+?>

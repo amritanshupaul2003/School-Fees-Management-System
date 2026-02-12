@@ -54,7 +54,8 @@ A comprehensive web-based application designed to streamline the management of s
     *   Navigate to the project URL (e.g., `http://localhost/School-Fees-Management-System/`).
     *   Log in using the default credentials:
         *   **Username:** `admin`
-        *   **Password:** `admin123`
+        *   **Password:** `password`
+        *   You can also apply these credentials in deployed link given in the description for demo.
 
 2.  **Dashboard**
     *   Use the navigation bar to access different modules: Students, Fee Structure, Payments, and Reports.

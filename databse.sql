@@ -11,7 +11,7 @@ CREATE TABLE users (
 
 -- Insert default admin user
 INSERT INTO users (username, password, email, role) 
-VALUES ('admin', 'admin123', 'admin@school.com', 'admin');
+VALUES ('admin', 'password', 'admin@school.com', 'admin');
 
 CREATE TABLE students (
     student_id VARCHAR(20) PRIMARY KEY,
